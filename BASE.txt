@@ -3,6 +3,19 @@
     - [x] [Harvard CS50 - Asymptotic Notation (video)]
     (https://www.youtube.com/watch?v=iOq5kSKqeR4)
 
-    watch this video and take a note of that.
-    create its flash cards
+    - watch this video and take a note of that.
+    - create its flashcards
+    - review flashcards/note/video: 1
+    ******************************************************
+    
+    - [x] [Big O Notations (general quick tutorial) (video)]
+    (https://www.youtube.com/watch?v=V6mKVRU1evU)
+
+    - watch this video and take a note of that.
+    - create its flashcards
+    - review flashcards
+
+    more links:
+    (https://www.youtube.com/watch?v=WprjBK0p6rw)
+    (https://www.youtube.com/watch?v=Vtckgz38QHs)
     ******************************************************
