@@ -5,7 +5,7 @@
 
     - watch this video and take a note of that.
     - create its flashcards
-    - review flashcards/note/video: 1
+    - review flashcards/note/video: 1 / 2 /
     ******************************************************
     
     - [x] [Big O Notations (general quick tutorial) (video)]
@@ -13,9 +13,17 @@
 
     - watch this video and take a note of that.
     - create its flashcards
-    - review flashcards
+    - review flashcards/note/video: 1 / 2 /
 
     more links:
     (https://www.youtube.com/watch?v=WprjBK0p6rw)
     (https://www.youtube.com/watch?v=Vtckgz38QHs)
+    ******************************************************
+
+    - [x] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)]
+    (https://www.youtube.com/watch?v=ei-A_wy5Yxw&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=3)
+
+    - watch this video and take a note of that.
+    - create its flashcards
+    - review flashcards/note/video: 1 /
     ******************************************************
