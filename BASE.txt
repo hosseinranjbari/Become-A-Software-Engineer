@@ -25,5 +25,13 @@
 
     - watch this video and take a note of that.
     - create its flashcards
-    - review flashcards/note/video: 1 /
+    - review flashcards/note/video: 1 / 2 / 
+    ******************************************************
+
+    - [x] [Skiena (video)]
+    (https://www.youtube.com/watch?v=z1mkCe3kVUA)
+
+    - watch this video and take a note of that.
+    - create its flashcards
+    - review flashcards/note/video: 1 / 
     ******************************************************
