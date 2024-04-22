@@ -43,3 +43,10 @@
     - create its flashcards
     - review flashcards/note/video
     ******************************************************
+
+    - [x] [Amortized Analysis (video)]
+    (https://www.youtube.com/watch?v=B3SpQZaAZP4&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=10)
+
+    - watch this video.
+    - it needs to study more about this subject.
+    ******************************************************
