@@ -50,3 +50,7 @@
     - watch this video.
     - it needs to study more about this subject.
     ******************************************************
+
+    - [] [ TopCoder (includes recurrence relations and master theorem):
+        - Computational Complexity: Section 1
+]
